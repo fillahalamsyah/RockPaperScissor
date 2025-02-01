@@ -135,7 +135,7 @@ Jika ada pertanyaan atau saran, silakan hubungi:
 
 💎 Email: fillahall@gmail.com
 
-🔗 LinkedIn: [Profil Anda](https://www.linkedin.com/in/fillah-alamsyah)
+🔗 LinkedIn: [Fillah Alamsyah](https://www.linkedin.com/in/fillah-alamsyah)
 
 ---
 
