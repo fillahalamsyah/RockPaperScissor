@@ -37,7 +37,7 @@ RockPaperScissor/
 
 ### 1️⃣ **Kloning Repository**
 ```sh
-git clone <URL_REPOSITORY>
+git clone https://github.com/fillahalamsyah/RockPaperScissor.git
 cd RockPaperScissor
 ```
 
@@ -103,7 +103,7 @@ Semua data ini akan ditampilkan di sidebar aplikasi Streamlit.
 - **Python 3.12.8** 🐍
 - **Streamlit** 🎨 (UI/UX)
 - **TensorFlow** 🤖 (Deep Learning)
-- **Scikit-Learn** 📊
+- **Scikit-Learn** 📊 (Label Encoding)
 - **NumPy & Pandas** 📊 (Data Processing)
 - **Matplotlib** 📈 (Visualization)
 
@@ -132,8 +132,10 @@ git push origin fitur-baru
 
 ## 📞 Kontak
 Jika ada pertanyaan atau saran, silakan hubungi:
-💎 Email: example@email.com
-🔗 LinkedIn: [Profil Anda](https://linkedin.com/in/example)
+
+💎 Email: fillahall@gmail.com
+
+🔗 LinkedIn: [Profil Anda](https://www.linkedin.com/in/fillah-alamsyah)
 
 ---
 
