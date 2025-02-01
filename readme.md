@@ -1,4 +1,4 @@
-# 🪨✂️📝 Rock Paper Scissors AI
+# 🪨✂️📝 Rock Paper Scissors Deep Learning
 
 ## 📌 Deskripsi Proyek
 Proyek ini adalah implementasi permainan **Batu-Gunting-Kertas** berbasis **AI** menggunakan **Streamlit** sebagai antarmuka pengguna. Model kecerdasan buatan yang digunakan adalah **Deep Learning dengan TensorFlow**, yang dilatih untuk memprediksi gerakan terbaik berdasarkan riwayat permainan sebelumnya.
